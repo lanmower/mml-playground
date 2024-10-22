@@ -22,6 +22,7 @@
     "esbuild": "0.21.2",
     "esbuild-plugin-copy": "2.1.1",
     "eslint": "8.57.0",
+    "ibpixman-1-dev","latest",
     "eslint-plugin-react": "7.34.1",
     "eslint-plugin-react-hooks": "4.6.2",
     "eslint-import-resolver-typescript": "3.6.1",
