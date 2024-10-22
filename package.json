@@ -6,8 +6,8 @@
   },
   "scripts": {
     "build": "lerna run --stream build",
-    "start": "npm run start -w @mml-playground/server",
-    "iterate": "npm run build && lerna run --parallel --stream iterate",
+    "serve": "npm run start -w @mml-playground/server",
+    "start": "npm run build && lerna run --parallel --stream iterate",
     "type-check-all": "lerna run --stream type-check",
     "lint-all": "lerna run --stream lint",
     "lint-fix-all": "lerna run --stream lint:fix"
