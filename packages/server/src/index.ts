@@ -24,7 +24,7 @@ const examplesWatchPath = path.resolve(path.join(dirname, "../examples"), "*.htm
 // Specify the avatar to use here:
 const characterDescription: CharacterDescription = {
   // Option 1 (Default) - Use a GLB file directly
-  meshFileUrl: "/assets/models/bot.glb", // This is just an address of a GLB file
+  meshFileUrl: "https://mmlstorage.com/cIzlm5/1729698857259.html", // This is just an address of a GLB file
   // Option 2 - Use an MML Character from a URL
   // mmlCharacterUrl: "https://...",
   // Option 3 - Use an MML Character from a string
